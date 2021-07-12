@@ -20,6 +20,6 @@ store_url in db_connect.php
 
 Login Credentials
 Id : admin
-password : admin
+password : admin123
 ```
 "# Inventory-Management-System" 
